@@ -6,7 +6,9 @@ In this week's challenge we'll be taking a deep look at regex, regular expressio
 
 Regex is a sequence of characters that create search patterns. They help with matching, locating, and managing texts. Here's a line displaying what regex looks like exactly:
 
-`(\d+(\.\d+)?) (\w+)/`
+`(/^[xX]?[0-9a-fA-F]{6}$/`
+
+- Example of matching Hex Value
 
 ## Table of Contents
 
